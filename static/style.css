@@ -1,0 +1,16 @@
+/* AutoValue AI — All styles are embedded in index.html for easy deployment */
+/* This file is kept for Flask static folder structure */
+
+body {
+    margin: 0;
+    padding: 0;
+}
+@media (max-width: 480px) {
+    .hero-stats { flex-wrap: wrap; gap: 20px; }
+    .rp-hero { grid-template-columns: 1fr; }
+    .conf-meter { display: none; } /* hide gauge on tiny screens */
+    .rp-cards { grid-template-columns: 1fr; }
+    .features-strip { grid-template-columns: 1fr; }
+    .fuel-group { grid-template-columns: repeat(2, 1fr); }
+    .rp-price { font-size: 52px; }
+}
