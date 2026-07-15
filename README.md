@@ -3,7 +3,13 @@
 A full-stack web application that predicts the resale value of used cars in the Indian market using a Gradient Boosting ML model trained on real data from Quikr (1995–2025).
 
 ---
+## 🔗 Live Demo
 
+https://autoval-ai.onrender.com
+
+## 💻 GitHub Repository
+
+https://github.com/mohithimandi/AutoVal-AI
 ## 🚀 Features
 
 - **AI Price Prediction** — Instant estimate using a Gradient Boosting Regressor (R² ≈ 0.69)
